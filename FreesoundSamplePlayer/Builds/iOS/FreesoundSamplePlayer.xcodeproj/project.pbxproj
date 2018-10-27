@@ -418,7 +418,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = (
 					../../JuceLibraryCode,
-					../../../../../../../../JUCE/modules,
+					../../JUCE/modules,
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "Info-App.plist";
@@ -508,7 +508,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = (
 					../../JuceLibraryCode,
-					../../../../../../../../JUCE/modules,
+					../../JUCE/modules,
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "Info-App.plist";
